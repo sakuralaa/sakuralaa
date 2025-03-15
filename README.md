@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🏫 Currently studying Computer Science @ University of Waterloo
 - 📖 I’m currently learning Sequential Programming with Assembly Language
-- 👨‍💻 I’m looking for fall 2024 IT related internshps
+- 👨‍💻 I’m looking for IT related internshps
 
 connect me: https://www.linkedin.com/in/yixiangchen099/
 <!--
