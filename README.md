@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🏫 Currently studying Computer Science @ University of Waterloo
-- 📖 I’m currently working @ schneider electric
+- 📖 Prev Software Developer Intern@ schneider electric
 - 👨‍💻 I’m looking for IT related internshps for summer 2026
 
 connect me: https://www.linkedin.com/in/yixiangchen099/
