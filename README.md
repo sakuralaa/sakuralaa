@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🏫 Currently studying Computer Science @ University of Waterloo
-- 📖 Data & AI research Intern @ CNEM Corp , Prev Software Developer Intern@ schneider electric
+- 📖 Data & AI research Intern @ CNEM Corp , Prev Software Developer Intern@ Schneider Electric
 - 👨‍💻 I’m looking for IT related internshps for summer 2026
 
 connect me: https://www.linkedin.com/in/yixiangchen099/
